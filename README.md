@@ -1,5 +1,4 @@
 # Ex - 04 
-# DATE : 28/08/24
 # Find the GCD of two numbers :
 
 ## AIM :
